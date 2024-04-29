@@ -1,0 +1,47 @@
+site_name: Rolling Into FLL
+theme:
+  name: material
+  language: en
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - content.tabs.link
+    - header.autohide
+    - announce.dismiss
+    - navigation.footer
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+  plugins:
+    - typeset
+    - search
+  palette:
+   # Palette toggle for dark mode
+    - scheme: slate
+      primary: deep-purple
+      accent: lime
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  
+   # Palette toggle for light mode
+    - scheme: default
+      primary: deep-purple
+      accent: lime
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+nav:
+  - Home: 
+    - Welcome: homepage/index.md
+    - About FLL: homepage/whatisfll.md
+    - About Us: homepage/aboutus.md
+  - FLL Guide:
+    - Starting FLL: guide/startingfll.md
+  - Direct Support:
+    - Mentorship: directsupport/mentorship.md
