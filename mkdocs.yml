@@ -43,5 +43,7 @@ nav:
     - About Us: homepage/aboutus.md
   - FLL Guide:
     - Starting FLL: guide/startingfll.md
+  - Tips From Teams:
+    - General: tips/generaltips.md
   - Direct Support:
     - Mentorship: directsupport/mentorship.md

@@ -1,0 +1,1 @@
+If you are seeking help or support beyond the resources on this page, fill out this form (coming soon) or email rnrr@rocknrollrobots25.com. We are happy to talk to you personally over email, discord, Zoom, or in person and share our experience in FLL and will try to get back to you within a week!

@@ -1,0 +1,1 @@
+So you want to join or start an FLL team but don't know how to do it or where to go. Well, you're in the right place! 
