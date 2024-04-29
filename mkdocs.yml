@@ -2,6 +2,8 @@ site_name: Rolling Into FLL
 theme:
   name: material
   language: en
+  font:
+    text: DM Sans Handgloves
   features:
     - content.code.annotate
     - content.code.copy
@@ -36,9 +38,17 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: "#"
+
 nav:
   - Home: 
-    - Welcome: homepage/index.md
+    - Welcome: index.md
     - About FLL: homepage/whatisfll.md
     - About Us: homepage/aboutus.md
   - FLL Guide:
